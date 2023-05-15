@@ -1,1 +1,1 @@
-# Eclipse solar feito cm HTML e CSS
+# Eclipse solar feito com HTML e CSS
